@@ -124,10 +124,11 @@
 ![앱서비스화면](./images/appexample.png)
 
 ### 5. 소개 및 시연 영상
-> - ![시연1](./images/example2.gif)
+> **영상** : videos 파일 내부에서 다운받아 확인가능
 >
-> - ![시연2](./images/example1.gif)
-> 
+![시연1](./images/example2.gif)
+![시연2](./images/example1.gif)
+ 
 ### 6. 팀 소개
 > **팀명**: Awake
 >
