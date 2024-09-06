@@ -124,7 +124,7 @@
 ![앱서비스화면](./images/appexample.png)
 
 ### 5. 소개 및 시연 영상
-> **영상** : videos 파일 내부에서 다운받아 확인가능
+> **영상** : https://youtu.be/npS0OqB2iuA
 >
 ![시연1](./images/example2.gif)
 ![시연2](./images/example1.gif)
